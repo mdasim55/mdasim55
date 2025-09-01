@@ -44,16 +44,16 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pahari47&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="pahari47" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasim55&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mdasim55" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pahari47&show_icons=true&locale=en&theme=nightowl" alt="pahari47" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdasim55&show_icons=true&locale=en&theme=nightowl" alt="mdasim55" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pahari47&theme=nightowl" alt="pahari47" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdasim55&theme=nightowl" alt="mdasim55" />
 </p>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pahari47&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdasim55&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 <!-- Footer -->
